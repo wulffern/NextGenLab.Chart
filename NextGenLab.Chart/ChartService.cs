@@ -20,15 +20,12 @@ using System.Collections;
 using System.ComponentModel;
 using System.Data;
 using System.Diagnostics;
-using System.Web;
-using System.Web.Services;
 using NextGenLab.Chart;
 using System.IO;
 using System.Drawing;
 using System.Drawing.Imaging;
 using System.Text;
 using System.Net;
-using System.Web.SessionState;
 
 namespace NextGenLab.Chart
 {
